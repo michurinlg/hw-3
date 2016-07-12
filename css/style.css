@@ -138,6 +138,9 @@ body {
   text-shadow: #6e6e6e 0 0 1px;
   text-decoration: none;
 }
+.catalog_f a:hover {
+  text-decoration: underline;
+}
 .catalog_f :last-child {
   width: 320px;
   height: 40px;
